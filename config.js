@@ -31,28 +31,28 @@ global.sig = 'https://instagram.com/kahfi_maker'
 global.syt = 'https://youtube.com/channel/UC6GPl9xMWL61NAXQb3HBrRw'
 global.sgh = 'https://github.com/Frezzy-XD'
 global.sgc = 'https://chat.whatsapp.com/I0prmYcZhKrCye0kiclzyt'
-global.swa = 'wa.me/6285380166282'
+global.swa = 'wa.me/6281235667201'
 global.swb = 'https://'
 global.snh = 'https://nhentai.net/g/365296/' //Make ini aja gausah di ganti.
 
 /*============== PAYMENT ==============*/
-global.pdana = '085380166282'
-global.povo = '-'
+global.pdana = '-'
+global.povo = '082332418625'
 global.pgopay = '-'
-global.ppulsa = '085295374964'
-global.ppulsa2 = '085295374964'
+global.ppulsa = '081235667201'
+global.ppulsa2 = '081235667201'
 global.psaweria = 'https://saweria.co/MaxxyBotz'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6285295374964'
-global.nomorown = '6285380166282'
-global.namebot = 'ʏᴛ ᴍᴀxxʏ ʙᴏᴛᴢ✓'
-global.nameown = 'ᴋᴀʜꜰɪ ᴍᴀᴋᴇʀ✓'
+global.nomorbot = '6282332418625'
+global.nomorown = '6281235667201'
+global.namebot = 'Mrrian'
+global.nameown = 'MEDIA_BALAP_JATIM'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6285380166282', 'ᴋᴀʜꜰɪ ᴍᴀᴋᴇʀ✓', 'true']
+  ['6281235667201', 'MRRIAN', 'true']
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -126,10 +126,10 @@ global.thumbWarn = 'https://telegra.ph/file/77d11b06617f0797a45ac.jpg'
 global.botintro = 'Hallo, Kenalin saya Maxxy BOT Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh *ᴋᴀʜꜰɪ ᴍᴀᴋᴇʀ✓* Saya di rilis pada tanggal\n🗓 ️_07/11/2022_'
 global.intro = 'https://telegra.ph/file/6ab4daac226292a112540.jpg'
 /*============== GLOBAL BIO ==============*/
-global.nameowner = 'ᴋᴀʜꜰɪ ᴍᴀᴋᴇʀ✓'
+global.nameowner = 'Mrrian'
 global.umurowner = '17'
 global.asalowner = 'Amerika Serikat, New York'
-global.nomorowner = 'wa.me/6285380166282'
+global.nomorowner = 'wa.me/6281235667201'
 global.pacarowner = 'Kepo amat sih;v'
 
 /*============== TEXT ==============*/
